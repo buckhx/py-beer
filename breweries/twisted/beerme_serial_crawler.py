@@ -12,6 +12,7 @@ def getBeermeIds():
 def main():
     print "Loadings IDs"
     ids = getBeermeIds()
+    ids = ids[2100:]
     print "Done Loading %i IDs" % len(ids)
     mongo = MongoClient().entities.breweries
     brew_count = len(ids)

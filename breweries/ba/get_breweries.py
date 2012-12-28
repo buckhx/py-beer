@@ -26,7 +26,7 @@ def format_brewery(soup):
 def get_states(soup):
     return [state.attrs['value'] for state in soup.find(id='dir_states').find_all('option')]
 
-mongo = MongoClient.entities.ba
+mongo = MongoClient().entities.ba
 cookieJar = cookielib.CookieJar()
 opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cookieJar))
 _root = opener.open(BA_URL)

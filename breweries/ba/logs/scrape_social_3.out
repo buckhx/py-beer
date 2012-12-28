@@ -1,0 +1,64 @@
+Loading breweries...
+Done loading breweries.
+Let the Reactor BEGIN!
+Agent Error for brewery: {u'website': u'http://www.citybreiwng.com', u'_id': ObjectId('50d4f20b2218dc054bad96ba'), u'name': u'Western Pennsylvania Brewing Co'}
+	type: DNS lookup failed: address 'www.citybreiwng.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.citybreiwng.com', u'_id': ObjectId('50d4f20f2218dc054bad9701'), u'name': u'Blues City Brewing Co'}
+	type: DNS lookup failed: address 'www.citybreiwng.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.royaloakbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad884f'), u'name': u'Royal Oak Brewery'}
+	type: DNS lookup failed: address 'www.royaloakbrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.lazymagnolia.com', u'_id': ObjectId('50d4f1ff2218dc054bad92bb'), u'name': u'Lazy Magnolia Brewing Co, LLC'}
+	type: Unsupported scheme: ''
+Agent Error for brewery: {u'website': u'http://www.headwaters-brewing.com', u'_id': ObjectId('50d4f2072218dc054bad94c2'), u'name': u'Headwaters Brewing Co'}
+	type: DNS lookup failed: address 'www.headwaters-brewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.metropolitanbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad85c9'), u'name': u'Metropolitan Brewing'}
+	type: DNS lookup failed: address 'www.metropolitanbrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.offtherailbrewing.com', u'_id': ObjectId('50d4f20a2218dc054bad95e7'), u'name': u'Off The Rail Brewery'}
+	type: DNS lookup failed: address 'www.offtherailbrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.burleyoak.com', u'_id': ObjectId('50d4f1e92218dc054bad80a9'), u'name': u'Burley Oak Craft Brewery'}
+	type: Unsupported scheme: ''
+Agent Error for brewery: {u'website': u'http://www.arbovine.com', u'_id': ObjectId('50d4f1e92218dc054bad81b7'), u'name': u'Deep Water Brewing At the Vinery'}
+	type: DNS lookup failed: address 'www.arbovine.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.flounderbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad82af'), u'name': u'Flounder Brewing Co'}
+	type: Unsupported scheme: ''
+Agent Error for brewery: {u'website': u'http://www.foothillsbrewingco.com', u'_id': ObjectId('50d4f1e92218dc054bad82b9'), u'name': u'Foothills Brewing and Beverage Co'}
+	type: DNS lookup failed: address 'www.foothillsbrewingco.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www. heaterallen.com', u'_id': ObjectId('50d4f1e92218dc054bad83d1'), u'name': u'Heater Allen Brewery'}
+	type: DNS lookup failed: address 'www. heaterallen.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.rhodellbrewery.com', u'_id': ObjectId('50d4f1e92218dc054bad848c'), u'name': u'John S Rhodell Brewery'}
+	type: DNS lookup failed: address 'www.rhodellbrewery.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.kodiakbrewy.com', u'_id': ObjectId('50d4f1e92218dc054bad84c8'), u'name': u'Kodiak Island Brewing Co, LLC'}
+	type: DNS lookup failed: address 'www.kodiakbrewy.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.mogbrew.com', u'_id': ObjectId('50d4f1e92218dc054bad8603'), u'name': u'Mogollon Brewing Co'}
+	type: DNS lookup failed: address 'www.mogbrew.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.rightbrainbrewery.com', u'_id': ObjectId('50d4f1e92218dc054bad87e8'), u'name': u'Right Brain Brewery'}
+	type: Unsupported scheme: ''
+Agent Error for brewery: {u'website': u'http://www.riverportbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad87f7'), u'name': u'Riverport Brewing Co'}
+	type: Unsupported scheme: ''
+Agent Error for brewery: {u'website': u'http://www.rjrockers.com', u'_id': ObjectId('50d4f1e92218dc054bad87fb'), u'name': u'RJ Rockers Brewing Co'}
+	type: Unsupported scheme: ''
+Agent Error for brewery: {u'website': u'http://www.saltcreeekbrewery.com', u'_id': ObjectId('50d4f1e92218dc054bad8873'), u'name': u'Salt Creek Brewery'}
+	type: DNS lookup failed: address 'www.saltcreeekbrewery.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.hylandbrew.com', u'_id': ObjectId('50d4f1e92218dc054bad874d'), u'name': u'Pioneer Brewing'}
+	type: Connection was refused by other side: 111: Connection refused.
+Agent Error for brewery: {u'website': u'http://www.sockyebrew.com', u'_id': ObjectId('50d4f1e92218dc054bad891c'), u'name': u'Sockeye Brewing Co'}
+	type: DNS lookup failed: address 'www.sockyebrew.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.urbanchestnut.com', u'_id': ObjectId('50d4f1e92218dc054bad8a85'), u'name': u'Urban Chestnut Brewing Co'}
+	type: Unsupported scheme: ''
+Agent Error for brewery: {u'website': u'http://www.rockymountainbrews.com', u'_id': ObjectId('50d4f1e92218dc054bad882e'), u'name': u'Rocky Mountain Brewery'}
+	type: User timeout caused connection failure.
+Agent Error for brewery: {u'website': u'http://www.westonirish.com', u'_id': ObjectId('50d4f1e92218dc054bad8ada'), u'name': u'Weston Brewing Co / O`Malley`s Pub'}
+	type: DNS lookup failed: address 'www.westonirish.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.sobrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad8936'), u'name': u'Southern Oregon Brewing Co'}
+	type: User timeout caused connection failure.
+Agent Error for brewery: {u'website': u'http://www.twelvebarbrews.com', u'_id': ObjectId('50d4f1e92218dc054bad8a50'), u'name': u'Twelve Bar Brews'}
+	type: User timeout caused connection failure.
+Agent Error for brewery: {u'website': u'http://www.leinie.com', u'_id': ObjectId('50d4f1e92218dc054bad8476'), u'name': u'Jacob Leinenkugel Brewing Co'}
+	type: [<twisted.python.failure.Failure <class 'twisted.web.error.InfiniteRedirection'>>]
+Agent Error for brewery: {u'website': u'http://www.leinie.com', u'_id': ObjectId('50d4f1e92218dc054bad8509'), u'name': u"Leinenkugel's 10th Street Brewery"}
+	type: [<twisted.python.failure.Failure <class 'twisted.web.error.InfiniteRedirection'>>]
+Agent Error for brewery: {u'website': u'http://www.coors.com', u'_id': ObjectId('50d4f1e92218dc054bad85e5'), u'name': u'MillerCoors Brewing Co - Shenandoah Facility'}
+	type: Unsupported scheme: ''
+Reactor has SHUTDOWN
+6.37user 0.49system 3:46.01elapsed 3%CPU (0avgtext+0avgdata 96480maxresident)k
+1112inputs+16outputs (10major+10761minor)pagefaults 0swaps

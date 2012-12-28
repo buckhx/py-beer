@@ -1,0 +1,94 @@
+Loading breweries...
+Done loading breweries.
+Let the Reactor BEGIN!
+Agent Error for brewery: {u'website': u'http://www.ArtfulDodgerBC.com', u'_id': ObjectId('50d4f1e92218dc054bad7cf9'), u'name': u'Artful Dodger Brewing Co'}
+	type: DNS lookup failed: address 'www.ArtfulDodgerBC.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.backyardbeers.com', u'_id': ObjectId('50d4f1e92218dc054bad7d22'), u'name': u'Back Yard Brewing Company'}
+	type: DNS lookup failed: address 'www.backyardbeers.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.almanacbeer.com', u'_id': ObjectId('50d4f1e92218dc054bad7cb2'), u'name': u'Almanac Beer Company'}
+	type: DNS lookup failed: address 'www.almanacbeer.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.altamontbrewingcompany.com', u'_id': ObjectId('50d4f1e92218dc054bad7cb9'), u'name': u'Altamont Brewing'}
+	type: DNS lookup failed: address 'www.altamontbrewingcompany.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.brewerydada.com', u'_id': ObjectId('50d4f1e92218dc054bad7e8f'), u'name': u'Brewery DADA'}
+	type: DNS lookup failed: address 'www.brewerydada.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.blackskybrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad7df8'), u'name': u'Black Sky Brewery'}
+	type: DNS lookup failed: address 'www.blackskybrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.bolerosnort.com', u'_id': ObjectId('50d4f1e92218dc054bad7e3e'), u'name': u'Bolero Snort Brewery'}
+	type: DNS lookup failed: address 'www.bolerosnort.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.breweryterrafirma.com', u'_id': ObjectId('50d4f1e92218dc054bad8064'), u'name': u'Brewery Terra Firma'}
+	type: DNS lookup failed: address 'www.breweryterrafirma.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.thebronxbrewery.com', u'_id': ObjectId('50d4f1e92218dc054bad8084'), u'name': u'Bronx Brewery, The'}
+	type: DNS lookup failed: address 'www.thebronxbrewery.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.butlerbrewworks.com', u'_id': ObjectId('50d4f1e92218dc054bad80b0'), u'name': u'Butler Brew Works'}
+	type: DNS lookup failed: address 'www.butlerbrewworks.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.dexterbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad81d2'), u'name': u'Dexter Brewing Company, LLC'}
+	type: DNS lookup failed: address 'www.dexterbrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.cinderblockbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad8119'), u'name': u'Cinder Block Brewing'}
+	type: DNS lookup failed: address 'www.cinderblockbrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.coloradocider.com', u'_id': ObjectId('50d4f1e92218dc054bad813a'), u'name': u'Colorado Cider Company'}
+	type: DNS lookup failed: address 'www.coloradocider.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.coloradoplus.net', u'_id': ObjectId('50d4f1e92218dc054bad813f'), u'name': u'Colorado-Plus Liquid Artworks'}
+	type: DNS lookup failed: address 'www.coloradoplus.net' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.thefrontbrewery.com', u'_id': ObjectId('50d4f1e92218dc054bad82e7'), u'name': u'Front Brewery, The'}
+	type: DNS lookup failed: address 'www.thefrontbrewery.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.g.brewing.com', u'_id': ObjectId('50d4f1e92218dc054bad82f6'), u'name': u'G Brewing Co'}
+	type: DNS lookup failed: address 'www.g.brewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.gentlebens.intrigomedia.com', u'_id': ObjectId('50d4f1e92218dc054bad8309'), u'name': u"Gentle Ben's Brewing Co"}
+	type: DNS lookup failed: address 'www.gentlebens.intrigomedia.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.holymakerelbeers.com', u'_id': ObjectId('50d4f1e92218dc054bad8327'), u'name': u'Gordash Brewing Co'}
+	type: DNS lookup failed: address 'www.holymakerelbeers.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.essersbest.com', u'_id': ObjectId('50d4f1e92218dc054bad8189'), u'name': u'Cross Plains Brewery Inc.'}
+	type: DNS lookup failed: address 'www.essersbest.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.highandmightybrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad83e7'), u'name': u'High & Mighty Brewing Co'}
+	type: DNS lookup failed: address 'www.highandmightybrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.devilsforgebrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad81cf'), u'name': u'Devils Forge Brewing'}
+	type: DNS lookup failed: address 'www.devilsforgebrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.thedudesbrew.com', u'_id': ObjectId('50d4f1e92218dc054bad8206'), u'name': u"Dude's Brewing Co, The"}
+	type: DNS lookup failed: address 'www.thedudesbrew.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.hosterbrewingco.com', u'_id': ObjectId('50d4f1e92218dc054bad8429'), u'name': u'Hoster Brewing Co'}
+	type: DNS lookup failed: address 'www.hosterbrewingco.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.inletbrewingco.com', u'_id': ObjectId('50d4f1e92218dc054bad844c'), u'name': u'Inlet Brewing Co'}
+	type: DNS lookup failed: address 'www.inletbrewingco.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.intercoursebrewingcompany.com', u'_id': ObjectId('50d4f1e92218dc054bad844e'), u'name': u'Intercourse Brewing Co'}
+	type: DNS lookup failed: address 'www.intercoursebrewingcompany.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.thegranarysa.com', u'_id': ObjectId('50d4f1e92218dc054bad8348'), u'name': u"Granary 'Cue and Brew"}
+	type: DNS lookup failed: address 'www.thegranarysa.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.greatdeepbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad8380'), u'name': u'Great Deep Brewing Co / Mermaid Tavern & Grille'}
+	type: DNS lookup failed: address 'www.greatdeepbrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.halcyonbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad83ad'), u'name': u'Halcyon Brewing Company LLC'}
+	type: DNS lookup failed: address 'www.halcyonbrewing.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.highhops.net', u'_id': ObjectId('50d4f1e92218dc054bad83eb'), u'name': u'High Hops Brewery'}
+	type: DNS lookup failed: address 'www.highhops.net' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.loubrew.com', u'_id': ObjectId('50d4f1e92218dc054bad854d'), u'name': u'LouBrew'}
+	type: DNS lookup failed: address 'www.loubrew.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.hopothesis.com', u'_id': ObjectId('50d4f1e92218dc054bad8417'), u'name': u'Hopothesis Beer Company'}
+	type: DNS lookup failed: address 'www.hopothesis.com' not found: [Errno -2] Name or service not known.
+Agent Error for breUnhandled error in Deferred:
+Unhandled Error
+Traceback (most recent call last):
+Failure: twisted.internet.error.ConnectError: An error occurred while connecting: 113: No route to host.
+wery: {u'website': u'http://www.jubileebeer.com', u'_id': ObjectId('50d4f1e92218dc054bad8495'), u'name': u'Jubilee Craft Beer Co'}
+	type: DNS lookup failed: address 'www.jubileebeer.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.lsbrewpgh.com', u'_id': ObjectId('50d4f1e92218dc054bad850a'), u'name': u'Leisure Sports Brewing'}
+	type: DNS lookup failed: address 'www.lsbrewpgh.com' not found: [Errno -2] Name or service not known.
+Agent Error for brewery: {u'website': u'http://www.radiusbreingcompany.com', u'_id': ObjectId('50d4f1e92218dc054bad879f'), u'name': u'Radius Brewing Company'}
+	type: DNS lookup failed: address 'www.radiusbreingcompany.com' not found: [Errno -2] Name or service not known.
+Reactor has SHUTDOWN
+Agent Error for brewery: {u'website': u'http://www.riverdogbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad87f2'), u'name': u'River Dog Brewing Co'}
+	type: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+Agent Error for brewery: {u'website': u'http://www.ripcurrentbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad87ea'), u'name': u'Rip Current Brewery'}
+	type: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+Agent Error for brewery: {u'website': u'http://www.moonlightmeadery.com', u'_id': ObjectId('50d4f1e92218dc054bad8610'), u'name': u'Moonlight Meadery LLC'}
+	type: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+Agent Error for brewery: {u'website': u'http://www.indyales.com', u'_id': ObjectId('50d4f1e92218dc054bad8444'), u'name': u'Independent Ale Works'}
+	type: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+Agent Error for brewery: {u'website': u'http://www.bogusbrewing.com', u'_id': ObjectId('50d4f1e92218dc054bad7e3b'), u'name': u'Bogus Brewing LLC'}
+	type: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+Agent Error for brewery: {u'website': u'http://www.haxallbrewingcompany.com', u'_id': ObjectId('50d4f1e92218dc054bad83cc'), u'name': u'Haxall Brewing Co'}
+	type: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+Agent Error for brewery: {u'website': u'http://www.legendsbeer.com', u'_id': ObjectId('50d4f1e92218dc054bad8504'), u'name': u'Legend Beverage, Inc'}
+	type: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+Agent Error for brewery: {u'website': u'http://www.reddragonbrewery.com', u'_id': ObjectId('50d4f1e92218dc054bad87c0'), u'name': u'Red Dragon Brewery'}
+	type: [<twisted.python.failure.Failure <class 'twisted.internet.error.ConnectionLost'>>]
+1.71user 0.19system 0:58.91elapsed 3%CPU (0avgtext+0avgdata 116368maxresident)k
+0inputs+24outputs (0major+10465minor)pagefaults 0swaps
